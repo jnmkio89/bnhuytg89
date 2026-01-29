@@ -19,6 +19,7 @@ scene.pov.radio_gray_threshold = 0.0
 scene.pov.radio_low_error_factor = 0.8
 
 scene.pov.radio_media = False
+
 scene.pov.radio_subsurface = False
 scene.pov.radio_minimum_reuse = 0.015
 scene.pov.radio_maximum_reuse = 0.2
@@ -27,6 +28,7 @@ scene.pov.radio_normal = False
 scene.pov.radio_recursion_limit = 1
 scene.pov.radio_pretrace_start = 0.08
 scene.pov.radio_pretrace_end = 0.01
+
 
 
 
